@@ -123,7 +123,7 @@ To run the Spotify Clone project locally, follow these instructions to set up yo
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 ## 📧 Contact
-If you have any questions or suggestions, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to reach out to me at [your-email@example.com](mailto:dhayaldhruv271@gmail.com).
 
 ---
 
