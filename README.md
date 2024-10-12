@@ -128,4 +128,4 @@ If you have any questions or suggestions, feel free to reach out to me at [your-
 ---
 
 Feel free to replace placeholder images in the gallery section with actual screenshots from your project and adjust any text to better suit your needs!
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/834de383681943.5d8a9b0e5b13f.gif" alt="" />
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="" />
