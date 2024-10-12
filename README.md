@@ -7,7 +7,7 @@ Here’s a detailed README template for your GitHub repository that includes sec
 
 # 🎶 Spotify Clone
 
-<center><img src="img/pic2.PNG" alt="" /></center>
+<center><img src="https://camo.githubusercontent.com/efd65566b431187c3df78bd24c4ba626bd12b49eea274f22031e8c8000f22a8c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323238343438302f73637265656e73686f74732f31353938383333312f6d656469612f39333335636431373764623639313361383035396666633964306332306531312e676966" alt="" /></center>
 
 ## 📖 Project Overview
 This project is a **front-end implementation of a Spotify clone**, designed to replicate the user interface and functionality of the popular music streaming service. Built using **HTML**, **CSS**, and **JavaScript**, the application allows users to explore a wide range of music tracks, create playlists, and enjoy a seamless listening experience.
@@ -128,4 +128,4 @@ If you have any questions or suggestions, feel free to reach out to me at [your-
 ---
 
 Feel free to replace placeholder images in the gallery section with actual screenshots from your project and adjust any text to better suit your needs!
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="" />
+<img src="https://camo.githubusercontent.com/65fd98b4849e978f1f08f85377eb187af80f26190208d71f5dd00718a2e75a7b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3434313332362f73637265656e73686f74732f333136353139312f73706f746966792d6769662d2d2d6f6c697665722d6b65616e652e676966" alt="" />
