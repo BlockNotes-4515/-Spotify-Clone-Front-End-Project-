@@ -7,7 +7,7 @@ Here’s a detailed README template for your GitHub repository that includes sec
 
 # 🎶 Spotify Clone
 
-<center><img src="image/pic2.PNG" alt="" /></center>
+<center><img src="img/pic2.PNG" alt="" /></center>
 
 ## 📖 Project Overview
 This project is a **front-end implementation of a Spotify clone**, designed to replicate the user interface and functionality of the popular music streaming service. Built using **HTML**, **CSS**, and **JavaScript**, the application allows users to explore a wide range of music tracks, create playlists, and enjoy a seamless listening experience.
@@ -22,13 +22,13 @@ This project is a **front-end implementation of a Spotify clone**, designed to r
 ## 🖼️ Gallery
 Here are some screenshots of the application:
 
-![Homepage](https://via.placeholder.com/400x200?text=Homepage)
+![Homepage](img/pic1.PNG)
 *Homepage displaying featured playlists*
 
-![Playlist Creation](https://via.placeholder.com/400x200?text=Playlist+Creation)
+![Playlist Creation](img/pic2.PNG)
 *User interface for creating a new playlist*
 
-![Music Search](https://via.placeholder.com/400x200?text=Music+Search)
+![Music Search](img/Capture.PNG)
 *Search functionality in action*
 
 *Add more images as needed to showcase the application's features!*
